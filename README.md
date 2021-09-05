@@ -8,7 +8,7 @@ This project is to create an inventory management system.
 4. sales.json has been created to save the bills of the buyers and the total sales. 
 
 ## About me:
-I am Rajonya Mondal, currently pursuing B.Tech in Computer Science and Engineering from Kalyani Government Engineering College. This project is a part of Skill India internship programme by Elite Techno Groups. I
+I am Rajonya Mondal, currently pursuing B.Tech in Computer Science and Engineering from Kalyani Government Engineering College. This project is a part of Skill India internship programme by Elite Techno Groups. 
 
 ## Contact me:
 Email ID: rajonyarajjo@gmail.com
